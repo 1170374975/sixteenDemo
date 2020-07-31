@@ -1,7 +1,16 @@
 div{
     width: 100px;
     height: 100px;
-    background: pink;
+    line-height: 100px;
+    background: green;
+    color: #fff;
+    text-align: center;
+}
+button {
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    background: blueviolet;
     color: #fff;
     text-align: center;
 }
